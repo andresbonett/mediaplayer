@@ -1,15 +1,19 @@
 {
-  "name": "JavaScript-Pro",
+  "name": "javascript-pro",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "description": "PlatziMediaPlayer practice project",
   "scripts": {
-    "start": "live-server"
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "@andresbonett",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "vite": "^7.1.0"
   }
 }
