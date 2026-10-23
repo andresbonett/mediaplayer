@@ -14,6 +14,6 @@
   "author": "@andresbonett",
   "license": "MIT",
   "devDependencies": {
-    "vite": "^7.1.0"
+    "vite": "^7.3.7"
   }
 }
